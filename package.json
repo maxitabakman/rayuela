@@ -1,0 +1,21 @@
+{
+  "name": "rayuela-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxitabakman/rayuela.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxitabakman/rayuela/issues"
+  },
+  "homepage": "https://github.com/maxitabakman/rayuela#readme"
+}
